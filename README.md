@@ -1,3 +1,11 @@
+# 👋 Hey, I'm Soniya Akter
+
+💻 CS Student | 📊 Data Science Enthusiast | 🎨 Designer | 🧠 Problem Solver
+
+Passionate about turning ideas into smart and creative digital experiences ✨
+I enjoy working with **data, design, development, and problem solving** while constantly learning new technologies 🚀
+
+⚡ Building • Learning • Designing • Growing
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/soniya_smiles_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mstsoniyaakter/) 
