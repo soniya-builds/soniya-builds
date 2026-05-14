@@ -17,6 +17,7 @@ Building • Learning • Designing • Growing
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=soniya-builds&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=soniya-builds&theme=dark&hide_border=false)<br/>
