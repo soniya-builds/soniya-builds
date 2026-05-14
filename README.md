@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Soniya Akter
 
-💻 CS Student | 📊 Data Science Enthusiast | 🎨 Designer | 🧠 Problem Solver
+ CS Student |  Data Science Enthusiast |  Designer |  Problem Solver
 
-Passionate about turning ideas into smart and creative digital experiences ✨
-I enjoy working with **data, design, development, and problem solving** while constantly learning new technologies 🚀
+Passionate about turning ideas into smart and creative digital experiences 
+I enjoy working with **data, design, development, and problem solving** while constantly learning new technologies 
 
 ⚡ Building • Learning • Designing • Growing
 
